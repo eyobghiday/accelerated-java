@@ -1,4 +1,4 @@
-# CS 201 Introduction to accelrated Java using Eclipse. 
+# CS 201 Accelrated Java Programming using Eclipse. 
 
 This repository will contain all assignments, exams, and projects that you will be working on throughout the semester. There may not be much in it at the start, but more will be added as time goes on, including additional work as well as grades for completed work.
 

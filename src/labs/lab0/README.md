@@ -1,10 +1,10 @@
-# Lab 0 - Using Eclipse, BitBucket, and Java
+# Lab 0 - Using Eclipse, Github and Java
 
 ## 06/11/2021
 
 ## Objectives
 
-1. Learn the email addresses of your Teaching Assistant (TA).
+1. Be familiar with all the tools we need.
 2. Clone your course repository
 3. Run your first java program using the Eclipse IDE
 4. Learn to correct syntax errors
@@ -13,7 +13,7 @@
 
 ## Exercises
 
-1. Using Eclipse, clone your BitBucket repository. While you are cloning your repository, please take a look at the file labeled `README.md` at its root. This file contains general information about your repository include the email address for the TA who will be grading your assignments.
+1. Using Eclipse, clone your Github repository. While you are cloning your repository, please take a look at the file labeled `README.md` at its root. This file contains general information about your repository and the assignments you'll be working on. 
 2. Write a Java program that will output "Hello World!" to the console.
 3. Open the file `TryVariables.java`. Run this program. Correct any errors you may find.
 4. Using Eclipse, write a Java program that will output _your_ name and birthdate in the following format:
@@ -40,7 +40,7 @@ Click on the Eclipse icon on your lab computer to run Eclipse.
 
 Open a Java perspective (icon in upper right corner)
 
-Import your class repository into the local workspace. You will need to copy the URI from [Bitbucket](www.bitbucket.org) and fill out your username and password. You will see your project appear in the Package Explorer on the left of the screen.
+Import your class repository into the local workspace. You will need to copy the URI from Github and fill out your username and password. You will see your project appear in the Package Explorer on the left of the screen.
 
 Right click on the package named 'Lab 0' in the Package Explorer and open a new class; name it with a descriptive name (HelloWorld);
 Modifier: public
@@ -48,7 +48,7 @@ Stubs: public static void main
 
 You should now have a program stub waiting to be edited.
 
-You should always add your name, corse, sec. #, date, and name of the program at the top of the file.
+You should always add your name, course, sec. #, date, and name of the program at the top of the file.
 
 Now you can actually enter the line: `System.out.println("Hello World!")`
 

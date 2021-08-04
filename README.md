@@ -8,6 +8,7 @@ This Project is divided into three sections, in order of importance and content 
 1. Lectures
 2. Labs
 3. Exams
+
 First do clone the lectures and watch what you can pick up. Then do the labs. The Labs are for you to do. Do not copy and but instead think about what you're asked in the each section. Each folder lab has it's own questions in the ReadME.md file. Make sure to read the assignment and then try to code them  on your Eclipse IDE. Then compare your answers with my solutions.
  
 ## Course Information

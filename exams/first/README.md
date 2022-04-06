@@ -1,6 +1,4 @@
-# Midterm Exam
-
-You will have 24 hours to complete this exam. You are allowed to use any outside notes or resources, but all work must be your own. Any code found not to be your own work will not be graded. Make sure to read _all_ the instructions for each question carefully and answer each question completely. Once you have finished, please commit and push your work to your repository. Please also confirm that the code is in your remote repository, i.e. that it is on bitbucket.org.
+# First Exam
 
 ## Question One: Selection
 

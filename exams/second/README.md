@@ -1,8 +1,4 @@
-# Final Exam
-
-You will have until July 31st at 07:00 CDT to complete this exam. It is opened notes and opened book, but all code must be your own (no answers found online will be accepted). Make sure to read all the instructions for each question carefully and answer each question completely. Once you have finished, please commit and push you work to your repository. Please also confirm that your code is in your remote repository, i.e. that it is on bitbucket.org.
-
-No late submissions will be accepted.
+# Exam 2
 
 ## Question One: Inheritance/Polymorphism/Abstract Classes
 

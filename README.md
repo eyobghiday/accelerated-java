@@ -1,6 +1,6 @@
 # CS 201 Accelerated Java Programming using Eclipse. 
 
-This repository will contain all assignments, exams, and projects that you will be working on throughout the semester. There may not be much in it at the start, but more will be added as time goes on, including additional work as well as grades for completed work.
+This repository contains all neccessary assignments, exams, and projects you need to understand java. There may not be much in it at the start, but more will be added as time goes on, including additional work as well as descriptions for the completed work.
 
 ## Project Sections
 
@@ -9,7 +9,12 @@ This Project is divided into three sections, in order of importance and content 
 2. Labs
 3. Exams
 
-First do clone the lectures and watch what you can pick up. Then do the labs. The Labs are for you to do. Do not copy and but instead think about what you're asked in the each section. Each folder lab has it's own questions in the ReadME.md file. Make sure to read the assignment and then try to code them  on your Eclipse IDE. Then compare your answers with my solutions.
+First do clone the lectures and read go over the codes. Then do the labs. The Labs are for you to do. Do not copy my solutions, instead think about what you're asked in each section. Each folder in the lab has its own questions in the ReadME.md file. Make sure to read the assignment and then try to code them using Eclipse IDE. Then compare your answers with my solutions.
+
+## Eclipse Setup
+
+Eclipse can be downloaded from https://www.eclipse.org/downloads/. And from that you can set up your project folder and path for the compiler. It's straight forward and super easy to use. It's GUI based, henceforth sefl explanatory. 
+It's quite possible that you need to update your Java or download a new one if you don't have one. The Java compiler is neccessary to run Eclipse and can be downloaded from https://www.oracle.com/java/technologies/downloads/.
  
 ## Course Information
 

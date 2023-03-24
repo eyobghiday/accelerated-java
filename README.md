@@ -1,6 +1,7 @@
-# CS 201 Accelerated Java Programming using Eclipse. 
+# Accelerated Java Programming using Eclipse. 
+This is a compilation of Java programs I wrote for anyone willing to study and learn the Java language. It's a collection of assignments and projects I wrote for one of my CS classes in Eclipse. As always let me know if you have questions.
 
-This repository contains all neccessary assignments, exams, and projects you need to understand java. There may not be much in it at the start, but more will be added as time goes on, including additional work as well as descriptions for the completed work.
+This repository contains all neccessary assignments, exams, and projects you need to understand java. There may not be much in it at the start, but I will add more as time goes on, including additional work as well as descriptions for the completed work.
 
 ## Project Sections
 

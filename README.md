@@ -29,5 +29,5 @@ It's quite possible that you need to update your Java or download a new one if y
 
 ### Questions?
 
-For questions, comments, edit and changes, please contact me. Or tag my username <b> @eyobghiday </br> in a problem you have.
+For questions, comments, edit and changes, please contact me. Or tag my username <b> @eyobghiday </b> in a problem you have.
 Thank you and so long ye filthy pirates!
